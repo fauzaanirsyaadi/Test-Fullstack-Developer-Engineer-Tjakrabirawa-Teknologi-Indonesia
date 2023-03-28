@@ -1,0 +1,3 @@
+Pertama, Anda perlu menginstal Node.js di komputer Anda. Setelah itu, Anda dapat membuat proyek baru dengan menjalankan perintah `npm init` di terminal atau command prompt. Kemudian, Anda dapat menginstal beberapa paket yang dibutuhkan untuk membuat server Node.js dan GraphQL seperti Express.js, GraphQL, dan lainnya dengan menjalankan perintah `npm install express express-graphql graphql-yoga jira-connector nodemailer`
+
+* run server : node index.js
